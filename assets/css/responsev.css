@@ -1,0 +1,187 @@
+@media screen and (max-width:1100px){
+    .formTitle {
+        font-size: 55px;
+        line-height: 1.5;
+        margin-bottom: 0;
+    }
+}
+
+@media screen and (max-width:1000px){
+    .formTitle {
+        font-size: 50px;
+    }
+}
+
+@media screen and (max-width:900px){
+    .formTitle {
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width:800px){
+    .formTitle {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width:600px){
+    .appContainer {
+        margin-top: 70px;
+    }
+    .appTitle {
+        font-size: 25px;
+    }
+    .deviceModel {
+        height: 120px;
+    }
+    .recieverSTOPMSG p {
+        font-size: 17px;
+    }
+    .recievedBTN button {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width:550px){
+    .formTitle {
+        font-size: 25px;
+    }
+    .appTitle {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .deviceModel {
+        height: 100px;
+    }
+    .deviceModel img {
+        height: 50px;
+    }
+}
+
+@media screen and (max-width:500px){
+    .top_bar {
+        font-size: 16px;
+    }
+    .formTitle {
+        font-size: 22px;
+    }
+    .appTitle {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .deviceModel {
+        height: 100px;
+    }
+    .brand img {
+        padding: 0 30px;
+    }
+    .formContainer {
+        padding: 0 15px;
+    }
+    .formApp {
+        padding: 25px 15px 40px 15px;
+    }
+    .appContainer {
+        padding: 50px 10px;
+    }
+    .userField input {
+        padding: 0 15px 0 70px;
+        font-size: 27px;
+    }
+    .userField img#userPIC {
+        left: 17px;
+    }
+    .formContainer{
+        padding: 0;
+    }
+    .formApp {
+        border-radius: 0;
+    }
+    body {
+        background-position: -500px;
+    }
+    .checkUserP, .lastCheckUserP {
+        font-size: 22px;
+    }
+    .gemsBIGTitle{
+        padding-top: 21px;
+    }
+    
+}
+
+@media screen and (max-width:400px){
+    .top_bar {
+        font-size: 14px;
+    }
+    .formTitle {
+        font-size: 19px;
+    }
+    .appTitle {
+        font-size: 17px;
+        font-weight: 700;
+    }
+    .userField input {
+        font-size: 22px;
+    }
+    .devicesList {
+        flex-direction: column;
+    }
+    .deviceModel img {
+        height: 60px;
+    }
+    .buttonField input {
+        font-size: 25px;
+    }
+    .checkUserP, .lastCheckUserP {
+        font-size: 18px;
+    }
+    .gemsSize{
+        font-size: 30px;
+    }
+    .packNUMBER{
+        font-size: 25px;
+    }
+
+    .recieverContainer input {
+        padding: 0 15px 0 80px;
+    }
+    .recieverContainer img#recieverUserPIC, .recieverContainer img#recieverUserPICDIAMOND {
+        left: 16px;
+    }
+    .recieverContainer img#recieverUserPICDIAMOND {
+        left: 22px;
+    }
+    .recieverContainer input {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width:350px){
+    .top_bar {
+        font-size: 12px;
+    }
+    .formTitle {
+        font-size: 15px;
+    }
+    .appTitle {
+        font-size: 15px;
+    }
+    .userField input {
+        font-size: 15px;
+    }
+    .errorMsg {
+        font-size: 17px;
+    }
+    .devicesList {
+        flex-direction: column;
+    }
+    .deviceModel img {
+        height: 60px;
+    }
+    .buttonField input {
+        font-size: 25px;
+    }
+    .packNUMBER {
+        font-size: 32px;
+    }
+}
